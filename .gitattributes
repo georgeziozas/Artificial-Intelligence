@@ -1,0 +1,5 @@
+Data-Scientist-Masterclass/** filter=lfs diff=lfs merge=lfs -text
+Deep-Learning-Masterclass/** filter=lfs diff=lfs merge=lfs -text
+Python-Masterclass/** filter=lfs diff=lfs merge=lfs -text
+Visualization-Masterclass/** filter=lfs diff=lfs merge=lfs -text
+Projects/** filter=lfs diff=lfs merge=lfs -text
