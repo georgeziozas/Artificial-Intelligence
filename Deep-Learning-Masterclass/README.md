@@ -1,4 +1,4 @@
-Personal Notes from my journey through Deep Learning. I hope you will find them usefull.
+Personal Notes from my journey through Deep Learning. ENJOY.
 
 
 
